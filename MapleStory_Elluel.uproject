@@ -7,7 +7,10 @@
 		{
 			"Name": "MapleStory_Elluel",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
 		}
 	]
 }
