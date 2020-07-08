@@ -1,6 +1,6 @@
-# MapleStory_Eurel
+# MapleStory_Elluel
 
-3D recreation of Eurel town from Maple Story
+3D recreation of Elluel town from Maple Story
 Using Unreal Engine 4 with C++ and Autodesk Maya
 
 
