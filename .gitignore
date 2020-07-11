@@ -83,3 +83,6 @@ Intermediate/
 #IDEs
 *.xcworkspace
 *.code-workspace
+.idea/
+CMakeLists.txt
+cmake-build-debug/
